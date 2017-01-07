@@ -58,7 +58,7 @@ img {
 }
 
 .jumbotron {
-  background: url(../img/city.jpg) no-repeat center;
+  background: url(../img/city-optimized.jpg) no-repeat center;
   background-size: cover;
   text-align: center;
   position: relative;
